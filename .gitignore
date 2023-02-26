@@ -1,3 +1,5 @@
 prueba1/build/*
 prueba1/src/findRoots
 !prueba1/build/.gitkeep
+prueba2/build/*
+!prueba2/build/.gitkeep
